@@ -92,13 +92,13 @@
 ## 🤝 Connect With Me
 
 <p align="center">
-  <a href="https://np.linkedin.com/in/rudal-kunwar-4561bb260" target="_blank">
+  <a href="https://np.linkedin.com/" target="_blank">
     <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
   </a>
-  <a href="mailto:ruzalkunwar@gmail.com" target="_blank">
+  <a href="mailto:rojinaspk75@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" style="margin-bottom: 5px;" />
   </a>
-  <a href="https://www.facebook.com/kuns.ruzal" target="_blank">
+  <a href="https://www.facebook.com/" target="_blank">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" style="margin-bottom: 5px;" />
   </a>
 </p>
