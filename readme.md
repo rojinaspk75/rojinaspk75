@@ -14,7 +14,7 @@
 
 <h2 align="center">Languages and Tools</h2>
 <p align="center">
-  <img width="500px" src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,python,laravel,mongodb,firebase,react,nodejs,express&perline=5" alt="Languages and Tools" />
+  <img width="500px" src="https://skillicons.dev/icons?i=html,css,tailwindcss,javascript,laravel&perline=5" alt="Languages and Tools" />
 </p>
 
 ---
